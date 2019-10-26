@@ -1,4 +1,4 @@
-## Bench Power Supplies Labels for Retro systems
+## Bench Power Supplies Labels for Retro Systems
 
 ![logo](logo.png)
 
